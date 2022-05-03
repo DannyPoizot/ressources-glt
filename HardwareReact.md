@@ -8,6 +8,12 @@
 
 <p>Beaucoup d'applications se font apparemment en React Native, ainsi qu'avec l'IDE Arduino.</p>
 
+<p>Exemple d'une appli React (avec appel API) : 
+<a>https://rapidapi.com/blog/weather-app-react/</a>
+</p>
+
+<p>Une biblothèque React Hardware : <a>https://github.com/iamdustan/react-hardware</a></p>
+
 
 
 
